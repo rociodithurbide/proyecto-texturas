@@ -9,7 +9,8 @@ Es una obra artística interdisciplinaria donde convergen lo sonoro, lo visual y
 
 [SEDICI](http://sedici.unlp.edu.ar/handle/10915/71216)
 
-Autores: Mazzarini, María Nazarena | Rueda, Franca | Ungaro, Milena | Cordoba, Lucía | Dithurbide, Rocío | Chávez, Marcelo
+**Autores:** 
+Mazzarini, María Nazarena | Rueda, Franca | Ungaro, Milena | Cordoba, Lucía | Dithurbide, Rocío | Chávez, Marcelo
 
 
 ![Texturas Expandidas cenital](/images/proyecto-texturas.JPG)
